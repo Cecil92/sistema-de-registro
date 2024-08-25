@@ -6,3 +6,5 @@
 Para ejecutar en el sistema, debes poner:
 
 ```npm install react```
+
+Sistema de rtegistro 2
